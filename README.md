@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **1oneegame/1oneegame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✨✨✨
+- Hi there 👋
+- telegram: @oneegame1 📫
+- nextjs enjoyer 🌱
